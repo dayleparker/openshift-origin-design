@@ -37,6 +37,8 @@ See [documentation](https://docs.openshift.com/container-platform/4.7/web_consol
 ## How do I write a quick start?
 See [documentation](https://docs.openshift.com/container-platform/4.7/web_console/creating-quick-start-tutorials.html).
 
+Also see _Best practices for writing quick starts_ on [UXD Hub](https://www.uxd-hub.com/entries/resource/best-practices-for-writing-quick-starts) for content guidelines.
+
 ## How do I contribute a quick start?
 
 This section goes over the following:
